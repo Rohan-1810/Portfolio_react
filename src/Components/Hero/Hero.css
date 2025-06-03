@@ -60,6 +60,12 @@
     border-radius: 50px;
     border: 2px solid #FFF;
     cursor: pointer;
+    text-decoration: none; 
+}
+
+.resume_link{
+  color: #B2D8CE;
+  text-decoration: none;
 }
 
 .hero-connect:hover{
